@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service.services;
+package guru.sfg.beer.inventory.service.services.listeners;
 
 import guru.sfg.beer.inventory.service.config.JMSConfig;
 import guru.sfg.beer.inventory.service.domain.BeerInventory;

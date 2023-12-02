@@ -1,7 +1,7 @@
 package guru.sfg.beer.inventory.service.services;
 
 
-import guru.sfg.brewery.model.BeerOrderDto;
+import guru.sfg.common.events.BeerOrderDto;
 
 /**
  * Created by jt on 2019-09-09.

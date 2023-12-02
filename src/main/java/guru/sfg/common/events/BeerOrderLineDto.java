@@ -44,4 +44,6 @@ public class BeerOrderLineDto extends BaseItem {
     private String beerName;
     private UUID beerId;
     private Integer orderQuantity = 0;
+    private Integer quantityAllocated;
+
 }
